@@ -7,7 +7,10 @@
 # Renan Almeida
 <sub>*Data Scientist*</sub>
 
-• Suporte Mainframe.
+• Suporte Mainframe
+
+
+
 • Elaboração de comitê tático operacional Mainframe com as áreas do Suporte Técnico Mainframe.
 • Conhecimento Processo ITIL V3
 • Investigar e resolver problemas de desempenho usando ferramentas como: RMF, SMF, TDS, WLM, Mainview para z / OS.
