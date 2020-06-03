@@ -26,5 +26,5 @@
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2BnwLn4
+* **Análise do Titanic:** https://bit.ly/2BnwLn4
 
