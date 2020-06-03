@@ -1,2 +1,2 @@
-# curso_data_science-
+# curso_data_science
 Portfólio projetos de Data Science  
