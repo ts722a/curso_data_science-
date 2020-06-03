@@ -9,12 +9,14 @@
 
 • Suporte Mainframe
 
+• Elaboração de comitê tático operacional Mainframe com as áreas do Suporte Técnico Mainframe
 
-
-• Elaboração de comitê tático operacional Mainframe com as áreas do Suporte Técnico Mainframe.
 • Conhecimento Processo ITIL V3
-• Investigar e resolver problemas de desempenho usando ferramentas como: RMF, SMF, TDS, WLM, Mainview para z / OS.
-• Realizar relatórios do sistema e análise de capacidade.
+
+• Investigar e resolver problemas de desempenho usando ferramentas como: RMF, SMF, TDS, WLM, Mainview para z / OS
+
+• Realizar relatórios do sistema e análise de capacidade
+
 • Ajustando o desempenho das LPARs, reduzindo assim o consumo de MSU / MIPS, melhorando os tempos de resposta e reduzindo os tempos de processamento batch.
  
 
