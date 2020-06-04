@@ -29,7 +29,7 @@
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os tutoriais publicados do blog Sigmoidal:
 
 * **Análise do Titanic:** https://bit.ly/2BnwLn4
 
